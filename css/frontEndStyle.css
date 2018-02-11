@@ -1,0 +1,48 @@
+.bg-color{
+    background-color: lightgrey;
+    margin-bottom: 20px;
+}
+
+.tbl-mrkup{
+    margin: 15px;
+    width: 100%;
+}
+
+.form-style{
+    font-size: 16px;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid;
+}
+
+.td-style{
+    padding: 5px;
+}
+
+.tbody-style{
+    border-right: 3px solid red;
+}
+
+#bkash{
+    padding: 10px 30px 10px 30px;
+}
+
+.rzs-text-style{
+    font-size: 14px;
+    color: #000;
+}
+
+.confirm-btn-style{
+    border-radius: 0px;
+    border: 1px solid gray;
+    height: 40px;
+    background-color: gray;
+    font-size: 14px;
+    color: #fff;
+}
+
+.transsection-form-style{
+    font-size: 16px;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid;
+    width: 45%;
+}
